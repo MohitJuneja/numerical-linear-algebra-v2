@@ -12,7 +12,52 @@ entries:
     - output: web,pdf
       title: hello_nbdev
       url: core.html
+    - output: web,pdf
+      title: 0. Course Logistics
+      url: 00-Course-Logistics.html
+    - output: web,pdf
+      title: 1. Why are we here?
+      url: 01-Why-are-we-here.html
+    - output: web,pdf
+      title: 2. Background Remvoal with SVD
+      url: 02-Background-Removal-with-SVD.html
+    - output: web,pdf
+      title: 3. Topic Modeling with NMF and SVD
+      url: 03-Topic-Modeling-with-NMF-and-SVD.html
+    - output: web,pdf
+      title: 4. Randomized Projection & Randomized SVD
+      url: 04-Randomized-SVD.html
+    - output: web,pdf
+      title: 5. LU Factorization
+      url: 05-LU-factorization.html
+    - output: web,pdf
+      title: '6. Compressed Sensing of CT Scans with Robust Regression '
+      url: 06-Compressed-Sensing-of-CT-Scans-with-Robust-Regression.html
+    - output: web,pdf
+      title: 7. Health Outcomes with Linear Regression
+      url: 07-Health-Outcomes-with-Linear-Regression.html
+    - output: web,pdf
+      title: 8. How to Implement Linear Regression
+      url: 08-How-to-Implement-Linear-Regression.html
+    - output: web,pdf
+      title: 9. PageRank with Eigen Decompositions
+      url: 09-PageRank-with-Eigen-Decompositions.html
+    - output: web,pdf
+      title: 10. Implementing QR Factorization
+      url: 10-Implementing-QR-Factorization.html
+    - output: web,pdf
+      title: Title
+      url: hw2.html
+    - output: web,pdf
+      title: Intro to Convolutions
+      url: convolution-intro.html
+    - output: web,pdf
+      title: Gradient Descent Intro
+      url: gradient-descent-intro.html
+    - output: web,pdf
+      title: Homework 3
+      url: hw3.html
     output: web
-    title: hello_nbdev
+    title: numerical_linear_algebra
   output: web
   title: Sidebar

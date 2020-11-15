@@ -1,6 +1,21 @@
 {
-  "hello_nbdev": {
+  "numerical_linear_algebra": {
     "Overview": "/",
-    "hello_nbdev": "core.html"
+    "hello_nbdev": "core.html",
+    "0. Course Logistics": "00-Course-Logistics.html",
+    "1. Why are we here?": "01-Why-are-we-here.html",
+    "2. Background Remvoal with SVD": "02-Background-Removal-with-SVD.html",
+    "3. Topic Modeling with NMF and SVD": "03-Topic-Modeling-with-NMF-and-SVD.html",
+    "4. Randomized Projection & Randomized SVD": "04-Randomized-SVD.html",
+    "5. LU Factorization": "05-LU-factorization.html",
+    "6. Compressed Sensing of CT Scans with Robust Regression ": "06-Compressed-Sensing-of-CT-Scans-with-Robust-Regression.html",
+    "7. Health Outcomes with Linear Regression": "07-Health-Outcomes-with-Linear-Regression.html",
+    "8. How to Implement Linear Regression": "08-How-to-Implement-Linear-Regression.html",
+    "9. PageRank with Eigen Decompositions": "09-PageRank-with-Eigen-Decompositions.html",
+    "10. Implementing QR Factorization": "10-Implementing-QR-Factorization.html",
+    "Title": "hw2.html",
+    "Intro to Convolutions": "convolution-intro.html",
+    "Gradient Descent Intro": "gradient-descent-intro.html",
+    "Homework 3": "hw3.html"
   }
 }

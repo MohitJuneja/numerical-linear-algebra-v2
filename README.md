@@ -1,6 +1,11 @@
-# Welcome to hello_nbdev
+# MJ welcomes you to hello_nbdev
 > An amazing backend tutorial!
 
+
+```
+%reload_ext autoreload
+%autoreload 2
+```
 
 This file will become your README and also the index of your documentation.
 
@@ -12,16 +17,13 @@ This file will become your README and also the index of your documentation.
 
 Fill me in please! Don't forget code examples:
 
-```python
-say_hello('MJ')
+```
+say_hello('VJ!')
 ```
 
-    Hello MJ!
 
 
 
-
-
-    'Hello MJ!'
+    'Hello VJ!!'
 
 

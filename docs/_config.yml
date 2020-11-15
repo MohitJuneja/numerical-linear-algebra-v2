@@ -1,9 +1,9 @@
-repository: mohitjuneja/hello_nbdev
+repository: mohitjuneja/numerical-linear-algebra-v2
 output: web
-topnav_title: hello_nbdev
-site_title: hello_nbdev
+topnav_title: numerical_linear_algebra
+site_title: numerical_linear_algebra
 company_name: Customer Centric INC
-description: A sandbox for nbdev
+description: Matrix Algebra for Deep Learning
 # Set to false to disable KaTeX math
 use_math: true
 # Add Google analytics id if you have one and want to use it here
@@ -60,4 +60,4 @@ sidebars:
 - home_sidebar
 
 theme: jekyll-theme-cayman
-baseurl: /hello_nbdev/
+baseurl: /numerical_linear_algebra/
