@@ -7,7 +7,7 @@ index = {"say_hello": "00_core.ipynb",
 
 modules = ["core.py"]
 
-doc_url = "https://mohitjuneja.github.io/numerical_linear_algebra/"
+doc_url = "https://mohitjuneja.github.io/numerical-linear-algebra-v2/"
 
 git_url = "https://github.com/mohitjuneja/numerical-linear-algebra-v2/tree/master/"
 
