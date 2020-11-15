@@ -2,7 +2,7 @@ repository: mohitjuneja/numerical-linear-algebra-v2
 output: web
 topnav_title: numerical_linear_algebra
 site_title: numerical_linear_algebra
-company_name: Customer Centric INC
+company_name: Mohit Juneja Experimental 
 description: Matrix Algebra for Deep Learning
 # Set to false to disable KaTeX math
 use_math: true
